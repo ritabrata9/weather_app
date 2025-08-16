@@ -22,7 +22,10 @@ A Flutter-based weather application that displays the **current weather** and **
 
 ## Screenshots
 
-_Add screenshots here to showcase the app._
+<p align="center">
+  <img src="assets/screenshots/app_ss_1.jpeg" alt="Home Screen" width="250"/>
+  <img src="assets/screenshots/app_ss_2.jpeg" alt="Forecast Screen" width="250"/>
+</p>
 
 ---
 
@@ -127,4 +130,5 @@ build/                          # Build output (ignored in git)
 ## License
 
 This project is open-source and licensed under the MIT License.
+
 
